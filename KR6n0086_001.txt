@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:04.745430
+#+DATE: 2015-08-30 20:58:05.967800
 #+TITLE: 大乘成業論
 #+PROPERTY: CBETA_ID T31n1609
 #+PROPERTY: ID KR6n0086
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1609
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0086_T_000-0781a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0086_T_001-0781a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1609[No.1608]¶
-
- 《大乘成業論》一卷¶
+No. 1609 [No. 1608]¶
+《大乘成業論》一卷¶
 ¶
 世親菩薩造¶
 大唐三藏法師玄奘奉　詔譯¶
@@ -419,7 +418,7 @@ No.1609[No.1608]¶
 行相微細無改變故。又以六識所依所緣行¶
 相品類麁易了故。與諸煩惱及對治道有相¶
 應故。建立雜染清淨品故。體是果識由此比¶
-知有種識故。諸契經中隨所宣說不說因識。
+知有種識故。諸契經中隨所宜說不說因識。
 <pb:KR6n0086_T_001-0785b>¶
 與上所說皆相違故。是名說六非餘密意。由¶
 此已釋。餘部經中唯說六識身為有分識等。¶
